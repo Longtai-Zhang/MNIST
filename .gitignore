@@ -130,3 +130,6 @@ dmypy.json
 
 # Photos
 *.png
+
+#. DS_Store
+.DS_Store
